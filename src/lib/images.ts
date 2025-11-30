@@ -1,4 +1,4 @@
-// Centralized image URLs for the IPCNA English App
+// Centralized image URLs for English Academy
 // Using direct links from Unsplash, Pexels, and Wikimedia Commons
 
 export const images = {
